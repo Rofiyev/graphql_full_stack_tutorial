@@ -1,4 +1,4 @@
-# GraphQL_full_stack_tutorial
+# Graphql Full Stack with Reactjs and Apollo Client
 
 ### Backend:
 
