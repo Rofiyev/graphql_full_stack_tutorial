@@ -2,7 +2,7 @@
 
 ### Backend:
 
-<img width="100%" src="https://www.datocms-assets.com/48401/1628645642-graphql-nodejs-2.png?auto=format&fit=max&w=1200" alt="backend image" />
+<img width="100%" src="https://miro.medium.com/v2/resize:fit:1200/1*z6KGBIxGxXpzcS7AKlDT_A.jpeg" alt="backend image" />
 
 ### Frontend:
 
